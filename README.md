@@ -1,2 +1,3 @@
-![Alt text for sign2.jpg](sign2.jpg)
-![Alt text for bird.jpg](bird.jpg)
+![Background image of a sign](sign2.jpg)
+![Background image of a bird](bird.jpg)
+
